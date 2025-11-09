@@ -14,7 +14,7 @@
 
 ### 2. Домашнее задание №2
 -   **Описание:** Разработка консольного приложения для учета личных финансов с применением принципов SOLID, GRASP и ключевых паттернов проектирования GoF.
--   **Ссылка:** [Репозиторий с проектом "FinanceTracker"](https://github.com/ManChlenemus/kpo_finance-tracker_hw2.git)
+-   **Ссылка:** [**Репозиторий с проектом "FinanceTracker"**](https://github.com/ManChlenemus/kpo_finance-tracker_hw2.git)
 
 ---
 
