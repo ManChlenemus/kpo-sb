@@ -25,5 +25,5 @@
 ---
 
 ### 4. Домашнее задание №4
--   **Описание:** ...
--   **Ссылка:** ...
+- **Описание:** Микросервисный интернет‑магазин с Orders/Payments, асинхронной оплатой через RabbitMQ (Inbox/Outbox, at-least-once + идемпотентность), API Gateway, WebSocket-уведомлениями и минимальным фронтендом. Сборка Gradle, запуск Docker Compose.
+- **Ссылка:** [**Репозиторий с проектом "Shopaholism"**](https://github.com/ManChlenemus/kpo_gozon-payments-orders_hw4.git)
